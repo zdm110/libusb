@@ -16,7 +16,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 #
 
-APP_ABI := all
+APP_ABI := arm64-v8a
 
 APP_CFLAGS := \
   -std=gnu11 \
